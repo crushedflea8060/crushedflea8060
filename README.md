@@ -41,6 +41,6 @@
 
 ###
 
-![Pac-Man Contribution Graph](https://crushedflea8060.github.io/crushedflea8060/pacman-contribution-graph.svg)
+![Pac-Man Contribution Graph](https://crushedflea8060.github.io/crushedflea8060/pacman-contribution-graph-dark.svg)
 
 ###
